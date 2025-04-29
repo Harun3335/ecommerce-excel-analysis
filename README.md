@@ -36,4 +36,4 @@ Bu proje, bir e-ticaret satış verisi dosyasını Python kullanarak analiz etme
 
 **Harun Uyar**  
 Python ile veri analizi ve otomasyon alanında freelance çalışıyorum.  
-📬 İletişim: [LinkedIn veya e-posta linki eklenebilir]
+📬 İletişim: [uyarharun@hotmail.com]
